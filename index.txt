@@ -1,0 +1,2 @@
+created html, css and js files for calculator
+linked css and js to html
